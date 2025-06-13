@@ -1,0 +1,24 @@
+{
+  "name": "VirgiMary Web Designer",
+  "short_name": "VirgiMary",
+  "description": "Diseño de páginas web personalizadas y logotipos - VirgiMary Web Designer.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f0c29",
+  "theme_color": "#00ffff",
+  "orientation": "portrait",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "./assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "es-ES"
+}
